@@ -1,0 +1,9 @@
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Release\GLaDOS.exe.manifest
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Release\GLaDOS.application
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Release\GLaDOS.exe
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Release\GLaDOS.pdb
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Release\GLaDOS.TrustInfo.xml
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Release\GLaDOS.exe.manifest
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Release\GLaDOS.application
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Release\GLaDOS.exe
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Release\GLaDOS.pdb

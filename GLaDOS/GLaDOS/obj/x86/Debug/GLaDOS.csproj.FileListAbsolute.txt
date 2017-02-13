@@ -1,0 +1,31 @@
+C:\Users\Tyler\AppData\Local\Temporary Projects\GLaDOS\bin\Debug\GLaDOS.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\GLaDOS\bin\Debug\GLaDOS.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\GLaDOS\obj\x86\Debug\GLaDOS.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\GLaDOS\obj\x86\Debug\GLaDOS.pdb
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS.csproj.ResolveComReference.cache
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Debug\Portal - 'Still Alive'.mp3
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS.csproj.ResolveComReference.cache
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\bin\Debug\Songs\Portal - 'Still Alive'.mp3
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS.Properties.Resources.resources
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS.csproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\bin\Debug\GLaDOS 31.exe.manifest
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\bin\Debug\GLaDOS 31.application
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\bin\Debug\GLaDOS 31.exe
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\bin\Debug\GLaDOS 31.pdb
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS 31.TrustInfo.xml
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS 31.exe.manifest
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS 31.application
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS 31.exe
+C:\Users\Tyler\Desktop\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\GLaDOS 31.pdb
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Interop.WSHControllerLibrary.dll
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Debug\Aperature Science Remote Shell.exe.manifest
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Debug\Aperature Science Remote Shell.application
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Debug\Aperature Science Remote Shell.exe
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\bin\Debug\Aperature Science Remote Shell.pdb
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Aperature Science Remote Shell.TrustInfo.xml
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Aperature Science Remote Shell.exe.manifest
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Aperature Science Remote Shell.application
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Aperature Science Remote Shell.exe
+C:\Users\Tyler\Desktop\GLaDOS\GLaDOS\obj\x86\Debug\Aperature Science Remote Shell.pdb
