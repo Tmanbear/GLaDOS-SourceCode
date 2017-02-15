@@ -26,29 +26,17 @@ This application requires a username and password apon the booting of the app. T
 >over every mistake
 >You just keep on trying
 >till you run out of cake
->And the _______ gets done
+>And the ------- gets done
 >And you make a neat gun
 >for the people who are
 >still alive
 
-Read more: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
+Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 
-```markdown
-Syntax highlighted code block
+```C#
+using System;
+using System.IO;
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
