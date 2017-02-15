@@ -2,8 +2,8 @@
 
 A download for the documentation is avalible in:
 <ul>
-<li> <a href="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.bat download">.bat</a></li>
-<li> <a href ="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.txt download">.txt</a></li>
+<li> <a href="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.bat" download>.bat format</a></li>
+<li> <a href ="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.txt" download>.txt format</a></li>
 </ul>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
