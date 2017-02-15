@@ -2,10 +2,6 @@
 echo Aperture Science Remote Shell Help
 
 echo (c) 2017
-
-echo --  
-echo Avalible online at http://www.github.com/Tmanbear/GLaDOS/help.html
-
 echo --
 echo "play - music subshell"
 echo "cd [.|..|filepath] - changes working directory (it is possible to exit the fake 'G' drive and explore other file on the computer. However, the prompt will not change once you go back begind the C:\GLaDOS_SHELL folder)"
