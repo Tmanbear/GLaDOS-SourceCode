@@ -10,11 +10,28 @@ A download for the documentation is avalible in:
 <li> <a href="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.html" download>.html</a></li>
 </ul>
 </div>
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is a little application that acts like a remote shell from portal and portal 2
+It runs in .net
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prerequisites: 
+ - Windows installer 3.1
+ - Microsoft .NET Framework 4 Client Profile (x86 and x64)
+
+### Credentials
+
+This application requires a username and password apon the booting of the app. The Username is GLaDOS and the password is...
+
+>But there's no sense crying
+>over every mistake
+>You just keep on trying
+>till you run out of cake
+>And the _______ gets done
+>And you make a neat gun
+>for the people who are
+>still alive
+
+Read more: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 
 ```markdown
 Syntax highlighted code block
