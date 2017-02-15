@@ -1,0 +1,14 @@
+Aperture Science Remote Shell Help
+(c) 2017
+--
+Avalible online at http://www.github.com/Tmanbear/GLaDOS-SourceCode/blob/master/HELP.html
+--
+"play - music subshell"
+"cd [.|..|filepath] - changes working directory (it is possible to exit the fake 'G' drive and explore other file on the computer. However, the prompt will not change once you go back begind the C:\GLaDOS_SHELL folder)"
+"ls - reads files in current directory"
+"dir - reads files in current directory"
+"stop - stops music"
+"comment /specimen chell /name [name] - add comment to chell's comment file"
+"reboot" - reboots the system
+"exit" - exits the shell
+"write - initilizes multilines text editor (use '`' or '~' to save and exit)"
