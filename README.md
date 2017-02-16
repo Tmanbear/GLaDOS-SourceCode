@@ -1,8 +1,5 @@
-## Welcome the source code for the Aperture Science Remote Shell Project
-
-<a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master"><img src="http://blogs.datalogics.com/wp-content/uploads/2015/05/zip_file_download.png" style="height: 90px"> <p style="font-family: Comic Sans MS">Download .ZIP</p></a>
-
 <div style="font-family: Comic Sans MS">
+<h1 style="text-align: center">Welcome the source code for the Aperture Science Remote Shell Project</h1>
 A download for the documentation is avalible in:
 <ul>
 <li> <a href="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.bat" download>.bat</a></li>
