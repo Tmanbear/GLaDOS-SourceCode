@@ -31,4 +31,5 @@ This application requires a username and password apon the booting of the app. T
 Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 
 ### Download Aperture Science Remote Shell
- - [.Zip](https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master)
+<p style="float:left"><a src="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p>
+<p style="float:right"><a src="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p>
