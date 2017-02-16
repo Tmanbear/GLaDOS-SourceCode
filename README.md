@@ -1,6 +1,6 @@
-<div style="font-family: Comic Sans MS; border: 2px solid black; padding:5px">
+
 <h1 style="text-align: center">Welcome the source code for the Aperture Science Remote Shell Project</h1>
-A download for the documentation is avalible in:
+<div style="font-family: Comic Sans MS; border: 2px solid black; padding:5px">A download for the documentation is avalible in:
 <ul>
 <li> <a href="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.bat" download>.bat</a></li>
 <li> <a href ="https://raw.githubusercontent.com/Tmanbear/GLaDOS-SourceCode/master/HELP.txt" download>.txt</a></li>
