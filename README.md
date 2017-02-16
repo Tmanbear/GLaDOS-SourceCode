@@ -1,4 +1,4 @@
-<div style="font-family: Comic Sans MS">
+<div style="font-family: Comic Sans MS; border: 2px solid black; padding:5px">
 <h1 style="text-align: center">Welcome the source code for the Aperture Science Remote Shell Project</h1>
 A download for the documentation is avalible in:
 <ul>
@@ -30,11 +30,11 @@ This application requires a username and password apon the booting of the app. T
 
 Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 
-<div style="border:5px solid black; padding: 5px">
+<div style="border:2px solid black; padding: 5px">
 <div style="font-family:sans-serif; font-size:30px">
 ### Download Aperture Science Remote Shell
-<p style="float:left"><a src="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p>
-<p style="float:right"><a src="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p>
+<p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p>
+<p style="float:right"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p>
 </div>
 </div>
 <p><br><br><br></p>
