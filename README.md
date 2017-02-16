@@ -1,6 +1,6 @@
 ## Welcome the source code for the Aperture Science Remote Shell Project
 
-https://github.com/Tmanbear/GLaDOS-SourceCode/archive/master.zip
+<a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master"><img src="http://blogs.datalogics.com/wp-content/uploads/2015/05/zip_file_download.png" style="height: 90px"> <p style="font-family: Comic Sans MS">Download .ZIP</p></a>
 
 <div style="font-family: Comic Sans MS">
 A download for the documentation is avalible in:
@@ -33,18 +33,5 @@ This application requires a username and password apon the booting of the app. T
 
 Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 
-```C#
-using System;
-using System.IO;
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tmanbear/Aperture-Science-Remote-Shell---SourceCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Download Aperture Science Remote Shell
+ - [.Zip](https://github/Tmanbear/GLaDOS-SourceCode/zipball/master)
