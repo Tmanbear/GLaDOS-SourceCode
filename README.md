@@ -33,8 +33,8 @@ Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics
 <div style="border:2px solid black; padding: 5px">
 <div style="font-family:sans-serif; font-size:30px">
 ### Download Aperture Science Remote Shell
-<p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p>
-<p style="float:right"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p>
+- <p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p>
+- <p style="float:right"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p>
 </div>
 </div>
 <p><br><br><br></p>
