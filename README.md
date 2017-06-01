@@ -8,8 +8,7 @@
 </ul>
 </div>
 
-This is a little application that acts like a remote shell from portal and portal 2
-It runs in .net
+This is a .net console application created in C#. It emulates what would be a dummy terminal into the Aperture Science Mainframe computer where the GLaDOS project would be being executed from. It is based loosly around the plot of Valve's Portal: Still Alive and Portal 2 Plotline. 
 
 Prerequisites: 
  - Windows installer 3.1
@@ -31,7 +30,7 @@ This application requires a username and password apon the booting of the app. T
 Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics 
 ### Download Aperture Science Remote Shell
 
-<div style="border:2px solid black; padding: 5px">
+<div style="border:2px solid black; padding: 15px">
 <div style="font-family:sans-serif; font-size:30px">
 <ul>
 <li><p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p></li>
@@ -39,5 +38,3 @@ Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics
 </ul>
 </div>
 </div>
-<p><br><br><br></p>
-
