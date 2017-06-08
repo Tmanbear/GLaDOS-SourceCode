@@ -32,5 +32,6 @@ Lyrics: Jonathan Coulton (Portal) - Still Alive Lyrics | MetroLyrics
 
 <ul>
 <li><p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/zipball/master">.zip</a></p></li>
-<li><p style="float:right"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p></li>
+<li><p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">.tar.gz</a></p></li>
+<li><p style="float:left"><a href="https://github.com/Tmanbear/GLaDOS-SourceCode/tarball/master">INSTALL</a></p></li>
 </ul>
